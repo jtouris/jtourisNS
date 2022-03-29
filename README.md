@@ -15,5 +15,6 @@
 [![](https://img.shields.io/badge/Code-Node-blue?logo=nodedotjs)](https://nodejs.org/)
 [![](https://img.shields.io/badge/DB-Mongo-blue?logo=mongodb)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/Server-Express-blue?logo=express)](https://expressjs.com/)
+[![](https://img.shields.io/badge/Cloud-Heroku-blueviolet?logo=heroku)](https://www.heroku.com/)
 [![](https://img.shields.io/badge/Cloud-DigitalOcean-blue?logo=digitalocean)](https://www.digitalocean.com/)
 [![](https://img.shields.io/badge/Tools-NPM-blue?logo=npm)](https://www.npmjs.com/)
