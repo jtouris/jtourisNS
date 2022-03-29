@@ -4,6 +4,18 @@
 
 <hr/>
 
+### My 📈
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img height="140px" align="center" src="https://github-readme-stats.vercel.app/api?username=jtourisNS&count_private=true&hide=issues,contribs&theme=merko&hide_border=true"/>
+</a>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtourisNS&layout=compact&theme=merko&hide_border=true"/>
+</a>
+
+<hr/>
+
 ### My 🛠️
 
 [![](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)](https://code.visualstudio.com/)
