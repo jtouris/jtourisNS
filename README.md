@@ -1,4 +1,4 @@
-### Hi 👋
+### Hello, Human 👋
 
 <img src="https://coursework.vschool.io/content/images/size/w2000/2017/12/Image-result-for-node-modules-photo-banner.png">
 
