@@ -2,7 +2,7 @@
 
 <img src="https://coursework.vschool.io/content/images/size/w2000/2017/12/Image-result-for-node-modules-photo-banner.png">
 
-<img src="https://www.pikpng.com/pngl/b/481-4815989_oracle-netsuite-logo-clipart.png" width="500" height="200">
+<img src="https://www.pikpng.com/pngl/b/481-4815989_oracle-netsuite-logo-clipart.png" width="700" height="150">
 <hr/>
 
 ### My 🛠️
