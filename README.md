@@ -8,7 +8,7 @@
 ### My 🛠️
 
 [![](https://img.shields.io/badge/Oracle-NetSuite-critical?logo=oracle)](https://www.oracle.com/index.html)
-[![](https://img.shields.io/badge/Code-SuiteScript-blue?logo=suitescript)](https://www.netsuite.com/portal/developers/resources/suitescript.shtml)
+[![](https://img.shields.io/badge/Code-SuiteScript-blue?logo=netsuite)](https://www.netsuite.com/portal/developers/resources/suitescript.shtml)
 [![](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Code-Node-blue?logo=nodedotjs)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Tools-npm-critical?logo=npm)](https://www.npmjs.com/)
