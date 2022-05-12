@@ -1,6 +1,6 @@
 ### Hello, Human 👋
 
-<img src="https://coursework.vschool.io/content/images/size/w2000/2017/12/Image-result-for-node-modules-photo-banner.png" width="400" height="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.pikpng.com/pngl/b/481-4815989_oracle-netsuite-logo-clipart.png" width="350" height="85">
+<img src="https://www.pikpng.com/pngl/b/481-4815989_oracle-netsuite-logo-clipart.png" width="350" height="85">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://coursework.vschool.io/content/images/size/w2000/2017/12/Image-result-for-node-modules-photo-banner.png" width="400" height="120">
 <hr/>
 
 ### My 🛠️
