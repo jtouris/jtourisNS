@@ -13,7 +13,7 @@
 [![](https://img.shields.io/badge/Code-Node-blue?logo=nodedotjs)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Tools-npm-critical?logo=npm)](https://www.npmjs.com/)
 [![](https://img.shields.io/badge/Code-Javascript-yellow?logo=javascript)](https://www.javascript.com/)
-[![](https://img.shields.io/badge/Code-Typescript-blue?logo=typescript)](https://www.typescript.com/)
+[![](https://img.shields.io/badge/Code-Typescript-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/DB-Mongo-success?logo=mongodb)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/Server-Express-blue?logo=express)](https://expressjs.com/)
 [![](https://img.shields.io/badge/Cloud-Heroku-blueviolet?logo=heroku)](https://www.heroku.com/)
